@@ -23,8 +23,9 @@
 - 随后介绍针对分类模型的评价方法，如混淆矩阵，precision，recall等指标，ROC曲线，PR曲线。
 
 
-[03 数据科学的模型——分类模型简介](http://nbviewer.jupyter.org/github/yishi/Data-Science-Series-in-Python/blob/master/the_introduction_of_data_science_03.ipynb)                                                                                                                                                                                        
-这部分介绍了一些分类模型：
+[03 数据科学的模型——分类模型简介](http://nbviewer.jupyter.org/github/yishi/Data-Science-Series-in-Python/blob/master/the_introduction_of_data_science_03.ipynb)                                                                                    
+
+这部分介绍了一些分类模型
 
 - 先介绍了逻辑回归的基本原理，用鸢尾花数据集画了分类边界；
 - 随后依次介绍了k最近邻算法、朴素贝叶斯分类器、支持向量机、集成算法（如装袋算法、随机森林、提升算法等）；
