@@ -42,7 +42,9 @@
 - 以波士顿房价数据为例，进行预测分析。
 
 
-[05 数据科学的模型——聚类、降维、数据预处理及特征选择的简介](http://nbviewer.jupyter.org/github/yishi/Data-Science-Series-in-Python/blob/master/the_introduction_of_data_science_05.ipynb)                                                                                    
+[05 数据科学的模型——聚类、降维、数据预处理及特征选择的简介](http://nbviewer.jupyter.org/github/yishi/Data-Science-Series-in-Python/blob/master/the_introduction_of_data_science_05.ipynb)    
+
+
 这部分介绍了聚类、降维、数据预处理、特征选择的相关内容。
 
 - 以K-Means为例，介绍了聚类模型；
